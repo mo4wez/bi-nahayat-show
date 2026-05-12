@@ -1,0 +1,17 @@
+anyio
+asgiref
+Balethon
+certifi
+charset-normalizer
+Django
+djangorestframework
+h11
+httpcore
+httpx
+idna
+peewee
+python-dotenv
+requests
+sqlparse
+tzdata
+urllib3
